@@ -22,7 +22,7 @@ Nmap
 
 - O que encontrei?
   
-![Percebi que estava rodando ssh na porta 22 e http na porta 80](imagem/namp.png)
+![Resultado da enumeração inicial](imagem/namp.png)
 
 
 
