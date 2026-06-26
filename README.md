@@ -22,7 +22,7 @@ Nmap
 
 - O que encontrei?
   
-![Resultado da enumeração inicial](imagem/namp.png)
+![Scan do Nmap](imagem/namp.PNG)
 
 
 
